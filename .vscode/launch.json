@@ -1,0 +1,248 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "SynchronizedCounterBlock",
+      "request": "launch",
+      "mainClass": "synchronization.SynchronizedCounterBlock",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "NonSynchronizedCounter",
+      "request": "launch",
+      "mainClass": "synchronization.NonSynchronizedCounter",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "ThreadCounterNoSync",
+      "request": "launch",
+      "mainClass": "synchronization.ThreadCounterNoSync",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "MultipleThreads",
+      "request": "launch",
+      "mainClass": "MultipleThreads",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "CreateThread",
+      "request": "launch",
+      "mainClass": "CreateThread",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "ImplementsThread2",
+      "request": "launch",
+      "mainClass": "ImplementsThread2",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "ImplementsThread",
+      "request": "launch",
+      "mainClass": "ImplementsThread",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "ExtendsThread",
+      "request": "launch",
+      "mainClass": "ExtendsThread",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "MainThread",
+      "request": "launch",
+      "mainClass": "MainThread",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "ExceptionCustom",
+      "request": "launch",
+      "mainClass": "ExceptionCustom",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "ExceptionThrows",
+      "request": "launch",
+      "mainClass": "ExceptionThrows",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "ExceptionThrow",
+      "request": "launch",
+      "mainClass": "ExceptionThrow",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "ExceptionMultipleCatch",
+      "request": "launch",
+      "mainClass": "ExceptionMultipleCatch",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "ExceptionCaught2",
+      "request": "launch",
+      "mainClass": "ExceptionCaught2",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "ExceptionTryNested",
+      "request": "launch",
+      "mainClass": "ExceptionTryNested",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "ExceptionCaught3",
+      "request": "launch",
+      "mainClass": "ExceptionCaught3",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "ExceptionCaught1",
+      "request": "launch",
+      "mainClass": "ExceptionCaught1",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "ExceptionUncaught",
+      "request": "launch",
+      "mainClass": "ExceptionUncaught",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "InterfacePrivateMethodTest",
+      "request": "launch",
+      "mainClass": "InterfacePrivateMethodTest",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "InterfaceStaticMethodTest",
+      "request": "launch",
+      "mainClass": "InterfaceStaticMethodTest",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "InterfaceMultipleInheritanceTest",
+      "request": "launch",
+      "mainClass": "InterfaceMultipleInheritanceTest",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "InterfaceDefaultMethodTest",
+      "request": "launch",
+      "mainClass": "InterfaceDefaultMethodTest",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "InterfaceExtendsTest",
+      "request": "launch",
+      "mainClass": "InterfaceExtendsTest",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "InterfaceVariableTest",
+      "request": "launch",
+      "mainClass": "InterfaceVariableTest",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "InterfaceNestedTest",
+      "request": "launch",
+      "mainClass": "InterfaceNestedTest",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "InterfaceApplyTest",
+      "request": "launch",
+      "mainClass": "InterfaceApplyTest",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "InterfaceTest",
+      "request": "launch",
+      "mainClass": "InterfaceTest",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "OtherPackage",
+      "request": "launch",
+      "mainClass": "p2.OtherPackage",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "SamePackage",
+      "request": "launch",
+      "mainClass": "p1.SamePackage",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "JAVA.Main",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "method_overridingDemo",
+      "request": "launch",
+      "mainClass": "method_overridingDemo",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "type": "java",
+      "name": "inheritance_constructorDemo",
+      "request": "launch",
+      "mainClass": "inheritance_constructorDemo",
+      "projectName": "OOP_practice_6ab8aa15"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Sifat/OOP_practice",
+      "program": "c:/Users/Sifat/OOP_practice/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
